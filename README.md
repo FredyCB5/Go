@@ -1,2 +1,2 @@
 # Proyectos GO
-Implementación de una Cola en Go
+Proyectos realizados en Go
