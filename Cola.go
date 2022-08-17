@@ -14,7 +14,7 @@ type Cola struct {
      MAXTAM  int = 10;
      frente  int
      ultimo  int
-    cola     Object
+     cola    Object
 }
 
 //Creando cola
