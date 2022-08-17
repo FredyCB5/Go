@@ -1,5 +1,5 @@
 /*
-Fredy Eleazr Cardona Banegas 20201002906
+Fredy Eleazar Cardona Banegas 20201002906
 Algortimos y estruturas de datos (IS310-1900)
 */
 
