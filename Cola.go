@@ -1,3 +1,8 @@
+/*
+Fredy Eleazr Cardona Banegas 20201002906
+Algortimos y estruturas de datos (IS310-1900)
+*/
+
 package main
 
 import "strconv"
@@ -9,7 +14,7 @@ type Cola struct {
      MAXTAM  int = 10;
      frente  int
      ultimo  int
-    cola Object
+    cola     Object
 }
 
 //Creando cola
@@ -61,7 +66,3 @@ func (this *Cola) ColaLlena()bool {
 func (this *Cola) toString() string {
     return "Cola [cola=" + Arrays.toString(this.cola) + ", frente=" + strconv.Itoa(this.frente) + ", ultimo=" + strconv.Itoa(this.ultimo) + "]";
 }
-/*
-Fredy Eleazr Cardona Banegas 20201002906
-Algortimos y estruturas de datos (IS310-1900)
-*/
